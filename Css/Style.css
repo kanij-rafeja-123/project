@@ -1,0 +1,126 @@
+*{
+    font-family: poppins;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    }
+    
+    .nav-item a{
+        color: white;
+    }
+    
+    .banner img{
+        height: 400px; width: 100%;
+    }
+    
+    .banner-content{
+        top: 5rem;
+    }
+    
+    .btn{
+        background-color: #fd9c6b;
+        color:white;
+    }
+    
+    .btn1{
+       color: #fd9c6b;
+       border: 2px solid #fd9c6b;
+       background-color: transparent;
+    }
+    
+    .card{
+        border: none;
+        background-color: #eeeeee;
+    }
+    
+    
+    .pic img{
+        height: 11rem;
+       width: 100%;
+       padding-left:4rem ;
+       padding-right:4rem ;
+    }
+    
+    .new{
+        padding-top: 10px;
+       height: 40px;
+       width: 40px;
+        border-radius: 50%;
+    }
+    
+    span{
+        color: #fd9c6b;
+    }
+    
+    
+    .content{
+        bottom: 26rem;
+    }
+    
+    .content-2{
+        bottom: 1rem;
+       right: 1rem;
+        
+    }
+    
+    .content-3{
+        bottom: 1rem;
+     }
+    
+     .btn3{
+       color: #160e0b;
+       border:2px solid #160e0b;
+       background-color: transparent;
+     }
+    
+     .box{
+        position: absolute;
+        height: 55px;
+        width: 55px;
+        background-color: #160e0b;
+        border: 3px solid white;
+       bottom: 11.5rem;
+     }
+    
+     .image{
+        position: relative;
+     }
+    
+     .icon i{
+        height:30px;
+        width:30px;
+        border: 1px solid;
+        color: white;
+        font-size: x-small;
+        padding: 0.6rem;
+     }
+    
+     .footer ul{
+        list-style: none;
+     }
+    
+    .footer a{
+        text-decoration: none;
+        color: white;
+        font-weight: 100;
+    }
+    
+    .ft-pic{
+        height: 60px;
+        width: 60px;
+    }
+    
+    .footer img{
+       padding: 5px;
+    }
+    
+    
+    .contact a{
+        line-height: 1.7rem;
+    }
+    .contact i{
+        margin-right: 10px;
+        font-size: small;
+    }
